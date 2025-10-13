@@ -1,2 +1,6 @@
-.idea
+# IDEs and editors
+.idea/
+
+# Environment variables
 .env
+*.env
